@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85b778c0-0ca0-4993-bf7a-a25b99972202" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="34bZh3FEZOKFKs2iVCE7cNr2OKR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Артур/Desktop/Universal-site/img&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Артур\Desktop\Universal-site\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Артур\Desktop\Universal-site\img" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85b778c0-0ca0-4993-bf7a-a25b99972202" name="Changes" comment="" />
+      <created>1761484348916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761484348916</updated>
+      <workItem from="1761484350578" duration="3161000" />
+      <workItem from="1761499887412" duration="727000" />
+      <workItem from="1761501724368" duration="370000" />
+      <workItem from="1761505657233" duration="11369000" />
+      <workItem from="1761564033974" duration="4099000" />
+      <workItem from="1761577898699" duration="4418000" />
+      <workItem from="1761585347171" duration="3508000" />
+      <workItem from="1761639380956" duration="668000" />
+      <workItem from="1761644916205" duration="1245000" />
+      <workItem from="1761648268845" duration="8025000" />
+      <workItem from="1761670964730" duration="1986000" />
+      <workItem from="1761675975388" duration="2477000" />
+      <workItem from="1761721577501" duration="3933000" />
+      <workItem from="1761741128755" duration="41000" />
+      <workItem from="1761758281154" duration="1541000" />
+      <workItem from="1761805367733" duration="9080000" />
+      <workItem from="1761825542498" duration="619000" />
+      <workItem from="1761830268397" duration="3936000" />
+      <workItem from="1761842129793" duration="80000" />
+      <workItem from="1761843961955" duration="2807000" />
+      <workItem from="1761898551838" duration="3168000" />
+      <workItem from="1761902152290" duration="807000" />
+      <workItem from="1761903145259" duration="2019000" />
+      <workItem from="1761918784840" duration="4372000" />
+      <workItem from="1761923343998" duration="51000" />
+      <workItem from="1761929680283" duration="5962000" />
+      <workItem from="1761995586347" duration="5364000" />
+      <workItem from="1762012943128" duration="77000" />
+      <workItem from="1762101410880" duration="667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
