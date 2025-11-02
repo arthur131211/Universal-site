@@ -549,7 +549,7 @@ nav h2{
     height: 520px;
     padding: 25px;
     border-radius: 10px;
-    background-image: url("/img/image-208.png");
+    background-image: url("img/image-208.png");
     background-repeat: no-repeat;
     background-color: #4592FF;
     background-position: center;
@@ -819,7 +819,7 @@ nav h2{
     height: 270px;
     position: absolute;
     bottom: -1600px;
-    background-image: url("/img/image-216.png");
+    background-image: url("img/image-216.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -1042,7 +1042,7 @@ nav h2{
 .career__card-one{
     width: 555px;
     height: 570px;
-    background-image: url("/img/image-205.png");
+    background-image: url("img/image-205.png");
     border-radius: 10px;
     padding: 20px;
 }
